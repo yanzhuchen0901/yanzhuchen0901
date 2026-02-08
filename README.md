@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋 I'm Yanzhu</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=2563EB&width=500&lines=CS+Undergraduate;Learning+AI+and+Systems;Welcome+to+my+GitHub" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=2563EB&width=500&lines=Yanzhu Chen;Coffee☕+and+Pingpong🏓+lover;Welcome+to+my+GitHub;ZJUer" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yanzhuchen0901&show_icons=true&theme=transparent" />
 </p>
 
 
