@@ -1,4 +1,11 @@
-# Hi 👋, I'm Yanzhu Chen
+![Typing SVG](https://readme-typing-svg.demolab.com
+?font=Fira+Code
+&pause=1000
+&color=3B82F6
+&width=435
+&lines=Computer+Science+Student;
+Learning+AI+%26+Systems;
+Welcome+to+my+GitHub!)
 
 ### ZJUer
 
