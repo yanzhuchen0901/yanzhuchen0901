@@ -51,14 +51,6 @@
 
 - GitHub: [@yanzhuchen0901](https://github.com/yanzhuchen0901)
 
----
-
-<p align="center">
-  <i>“Build solid foundations, then move fast.”</i>
-</p>
-
-
-
 ### ZJUer
 
 - 🌱 I'm currently learning **cs61a & Missing Semester**
