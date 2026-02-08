@@ -1,16 +1,20 @@
+<div></div>
 <h1 align="center">Hi 👋 I'm Yanzhu Chen</h1>
 
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FFFFFF&size=28&weight=600&center=true&vCenter=true&width=700&lines=Yanzhu+Chen;Coffee%E2%98%95+and+Pingpong%F0%9F%8F%93+lover;Welcome+to+my+GitHub;ZJUer" />
-
+</div>
+<div>
+</div>
+<div align="center" style="margin: 24px 0;">
+  <a href="https://yanzhuchen0901.github.io/yanzhuchen0901.gtihub.io/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/My%20Homepage-2563EB?style=for-the-badge&logo=githubpages&logoColor=white"
+      alt="My Homepage"
+    />
+  </a>
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yanzhuchen0901&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-</div>
 
 ---
 
@@ -35,7 +39,9 @@
 
 ## 📫 Contact
 
-- GitHub: [@yanzhuchen0901](https://github.com/yanzhuchen0901)
+- Gmial: yanzhuchen192@gmail.com
+- QQmail: 3282928900@qq.com
+- Wechat: Chenyanzhu0721 
 
 ### ZJUer
 
