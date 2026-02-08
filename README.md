@@ -1,12 +1,30 @@
 <h1 align="center">Hi 👋 I'm Yanzhu Chen</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=2563EB&width=520&lines=Yanzhu+Chen;CS+Undergraduate;Coffee%E2%98%95+and+Pingpong%F0%9F%8F%93+lover;Learning+AI+and+Systems;Welcome+to+my+GitHub;ZJUer" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yanzhuchen0901&show_icons=true&theme=transparent&cache_seconds=1800" />
-</p>
+<img src="https://readme-typing-svg.demolab.com
+?font=Fira+Code
+&pause=800
+&color=FFFFFF
+&size=28
+&weight=600
+&center=true
+&vCenter=true
+&width=700
+&lines=Yanzhu+Chen;Coffee%E2%98%95+and+Pingpong%F0%9F%8F%93+lover;Welcome+to+my+GitHub;ZJUer" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api
+?username=yanzhuchen0901
+&show_icons=true
+&theme=tokyonight
+&hide_border=true
+&cache_seconds=1800" />
+
+</div>
 
 ---
 
