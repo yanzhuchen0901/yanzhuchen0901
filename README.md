@@ -1,11 +1,13 @@
-![Typing SVG](https://readme-typing-svg.demolab.com
-?font=Fira+Code
-&pause=1000
-&color=3B82F6
-&width=435
-&lines=Computer+Science+Student;
-Learning+AI+%26+Systems;
-Welcome+to+my+GitHub!)
+<h1 align="center">Hi 👋 I'm Yanzhu</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=2563EB&width=500&lines=CS+Undergraduate;Learning+AI+and+Systems;Welcome+to+my+GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=transparent" />
+</p>
+
 
 ### ZJUer
 
