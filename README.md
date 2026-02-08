@@ -2,27 +2,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com
-?font=Fira+Code
-&pause=800
-&color=FFFFFF
-&size=28
-&weight=600
-&center=true
-&vCenter=true
-&width=700
-&lines=Yanzhu+Chen;Coffee%E2%98%95+and+Pingpong%F0%9F%8F%93+lover;Welcome+to+my+GitHub;ZJUer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FFFFFF&size=28&weight=600&center=true&vCenter=true&width=700&lines=Yanzhu+Chen;Coffee%E2%98%95+and+Pingpong%F0%9F%8F%93+lover;Welcome+to+my+GitHub;ZJUer" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api
-?username=yanzhuchen0901
-&show_icons=true
-&theme=tokyonight
-&hide_border=true
-&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=yanzhuchen0901&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
 
@@ -44,7 +30,7 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanzhuchen0901&layout=compact&theme=transparent&cache_seconds=1800" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yanzhuchen0901&theme=tokyo-night&hide_border=true" />
 </p>
 
 ## 📫 Contact
