@@ -1,12 +1,44 @@
-<h1 align="center">Hi 👋 I'm Yanzhu</h1>
+<h1 align="center">Hi 👋 I'm Yanzhu Chen</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=2563EB&width=500&lines=Yanzhu Chen;Coffee☕+and+Pingpong🏓+lover;Welcome+to+my+GitHub;ZJUer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=2563EB&width=520&lines=Yanzhu+Chen;CS+Undergraduate;Coffee%E2%98%95+and+Pingpong%F0%9F%8F%93+lover;Learning+AI+and+Systems;Welcome+to+my+GitHub;ZJUer" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yanzhuchen0901&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yanzhuchen0901&show_icons=true&theme=transparent&cache_seconds=1800" />
 </p>
+
+---
+
+## 📂 Selected Projects
+
+> （持续更新中）
+
+- 🧩 **CS61A Exercises**  
+  Functional programming & recursion practice  
+- 🌐 **Personal Homepage (Flask)**  
+  Backend + frontend integration, Jinja templates  
+- 📝 **CS Notes Repository**  
+  Structured notes on core CS subjects  
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanzhuchen0901&layout=compact&theme=transparent&cache_seconds=1800" />
+</p>
+
+## 📫 Contact
+
+- GitHub: [@yanzhuchen0901](https://github.com/yanzhuchen0901)
+
+---
+
+<p align="center">
+  <i>“Build solid foundations, then move fast.”</i>
+</p>
+
 
 
 ### ZJUer
