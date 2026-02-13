@@ -16,23 +16,12 @@
 </div>
 
 ## 📊 Code Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yanzhuchen0901&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="170"/>
-</p>
----
-## 📊 GitHub Activity
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yanzhuchen0901&theme=tokyo-night&hide_border=true" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanzhuchen0901&layout=pie&theme=github_dark&hide_border=true&bg_color=0d1117" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yanzhuchen0901&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yanzhuchen0901&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yanzhuchen0901&theme=github_dark" width="45%" />
 </p>
 ## 📂 Selected Projects
 
