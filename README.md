@@ -18,10 +18,9 @@
 ## 📊 Code Statistics
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yanzhuchen0901&theme=tokyo-night&hide_border=true" />
-</p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yanzhuchen0901&theme=github_dark" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yanzhuchen0901&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yanzhuchen0901&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yanzhuchen0901&theme=github_dark" width="48%" />
 </p>
 ## 📂 Selected Projects
 
