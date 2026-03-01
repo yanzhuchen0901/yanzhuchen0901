@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋 I'm Yanzhu Chen</h1>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FFFFFF&size=28&weight=600&center=true&vCenter=true&width=700&lines=Yanzhu+Chen;Coffee%E2%98%95+and+Pingpong%F0%9F%8F%93+lover;Welcome+to+my+GitHub;ZJUer;An intern+at+ShangHai+AI+lab" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FFFFFF&size=28&weight=600&center=true&vCenter=true&width=700&lines=Yanzhu+Chen;Coffee%E2%98%95+and+Pingpong%F0%9F%8F%93+lover;Welcome+to+my+GitHub;ZJUer;An+intern+at+ShangHai+AI+lab" />
 </div>
 <div>
 </div>
