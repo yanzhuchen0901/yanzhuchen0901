@@ -2,12 +2,12 @@
 <h1 align="center">Hi 👋 I'm Yanzhu Chen</h1>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FFFFFF&size=28&weight=600&center=true&vCenter=true&width=700&lines=Yanzhu+Chen;Coffee%E2%98%95+and+Pingpong%F0%9F%8F%93+lover;Welcome+to+my+GitHub;ZJUer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FFFFFF&size=28&weight=600&center=true&vCenter=true&width=700&lines=Yanzhu+Chen;Coffee%E2%98%95+and+Pingpong%F0%9F%8F%93+lover;Welcome+to+my+GitHub;ZJUer;An intern+at+ShangHai+AI+lab" />
 </div>
 <div>
 </div>
 <div align="center" style="margin: 24px 0;">
-  <a href="https://yanzhuchen0901.github.io/yanzhuchen0901.gtihub.io/" target="_blank">
+  <a href="https://yanzhuchen0901.github.io/" target="_blank">
     <img
       src="https://img.shields.io/badge/My%20Homepage-2563EB?style=for-the-badge&logo=githubpages&logoColor=white"
       alt="My Homepage"
