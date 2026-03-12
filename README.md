@@ -43,6 +43,7 @@
 - Wechat: Chenyanzhu0721 
 
 ### ZJUer
+- 📕 I'm a student from Zhejiang University
 
 - 🌱 I'm currently learning **cs61a & Missing Semester**
 
