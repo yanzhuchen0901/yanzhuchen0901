@@ -43,13 +43,13 @@
 - Wechat: Chenyanzhu0721 
 
 ### ZJUer
-- 📕 I'm a student from Zhejiang University
+- 📕 I'm a student from Zhejiang University, major in engineering, especially Unmanned Systems and Marine Equipment
 
-- 🌱 I'm currently learning **cs61a & Missing Semester**
+- 🌱 I'm currently learning **cs224n & cs336**
 
 - 📫 How to reach me **yanzhuchen192@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://yanzhuchen0901.github.io/yanzhuchen0901.gtihub.io/](https://yanzhuchen0901.github.io/yanzhuchen0901.gtihub.io/)**
+- 👨‍💻 All of my projects are available at **[https://yanzhuchen0901.github.io/](https://yanzhuchen0901.github.io/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
