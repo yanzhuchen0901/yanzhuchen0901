@@ -7,7 +7,7 @@
 <div>
 </div>
 <div align="center" style="margin: 24px 0;">
-  <a href="https://yanzhuchen0901.github.io/" target="_blank">
+  <a href="https://Bamb0oChen.github.io/" target="_blank">
     <img
       src="https://img.shields.io/badge/My%20Homepage-2563EB?style=for-the-badge&logo=githubpages&logoColor=white"
       alt="My Homepage"
@@ -17,10 +17,10 @@
 
 ## 📊 Code Statistics
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yanzhuchen0901&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bamb0oChen&theme=tokyo-night&hide_border=true" />
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yanzhuchen0901&theme=github_dark" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yanzhuchen0901&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bamb0oChen&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bamb0oChen&theme=github_dark" width="48%" />
 </p>
 
 ## 📂 Selected Projects
@@ -47,7 +47,7 @@
 
 - 📫 How to reach me **yanzhuchen192@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://yanzhuchen0901.github.io/](https://yanzhuchen0901.github.io/)**
+- 👨‍💻 All of my projects are available at **[https://Bamb0oChen.github.io/](https://Bamb0oChen.github.io/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
